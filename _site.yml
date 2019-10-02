@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Nic's Blog"
+title: "Deleuze Clementines'Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/clementine-deleuze-blog/clementine-deleuze-blog
+base_url:  https://clementine-deleuze-blog/clementine-deleuze-blog/ 
 collections:
     posts:
       share: [twitter, linkedin, facebook]
