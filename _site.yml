@@ -14,5 +14,6 @@ navbar:
 base_url:  https://clementine-deleuze-blog/clementine-deleuze-blog/ 
 collections:
     posts:
+    disqus: deleuze-clementines-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
