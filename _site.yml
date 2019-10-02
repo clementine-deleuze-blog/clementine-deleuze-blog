@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Deleuze Clementines'Blog"
+title: "Deleuze Clementines' Blog"
 output_dir: "docs"
 navbar:
   right:

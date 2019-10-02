@@ -2,7 +2,11 @@
 title: "About me"
 ---
 
+My name is Deleuze Clementine, I am in the second group and my teacher's name is Ingrid Van Lancker.
 
-This section also must include: 
 
 - first name/surname, teacher’s name, class name and academic year
+Deleuze Clémentine
+teacher:  Ingrid VAN LANCKER
+bac 2 sciences biologiques (2019-2020)
+groupe 2
