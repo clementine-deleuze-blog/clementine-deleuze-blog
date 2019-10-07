@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Ocean warming"
+title: "Clementine Deleuze's blog"
 output_dir: "docs"
 navbar:
   right:
@@ -14,6 +14,6 @@ navbar:
 base_url:  https://clementine-deleuze-blog.github.io/clementine-deleuze-blog/
 collections:
     posts:
-    disqus: deleuze-clementines-blog
+      disqus: deleuze-clementines-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
