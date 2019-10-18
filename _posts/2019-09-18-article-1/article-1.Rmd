@@ -1,10 +1,10 @@
 ---
-title: "Article 1 : Infectious disease in marine life linked to decades of ocean warming"
+title: "Article 1 : Earth's Oceans Are Getting Hotter And Higher, And It's Accelerating"
 author:
-  - name: Deleuze Clementine
-date: 10-18-2019
+  - name: Deleuze Clémentine
+date: 10-17-2019
 categories:
-  - Infectious disease in marine life
+  - Ocean warming
 preview: image/warming-ocean.jpg
 output:
   distill::distill_article:
@@ -15,11 +15,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-09-18-article-1/image/warming-ocean.jpg) 
 
-![](/to//media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-09-18-article-1/image/waming-ocean.jpg) 
+[https://www.sciencedaily.com/releases/2019/10/191009162428.htm]
 
-
-<https://www.sciencedaily.com/releases/2019/10/191009162428.htm>
 
 ## Vocabulary 
 
