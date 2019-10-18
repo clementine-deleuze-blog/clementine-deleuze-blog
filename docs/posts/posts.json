@@ -1,20 +1,19 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : Infectious disease in marine life linked to decades of ocean warming",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Deleuze Clementine",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
+    "date": "2019-10-18",
     "categories": [
-      "elephant",
-      "track"
+      "Infectious disease in marine life"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:38:40+02:00"
+    "preview": "posts/2019-09-18-article-1/image/warming-ocean.jpg",
+    "last_modified": "2019-10-18T16:10:50+02:00"
   }
 ]
