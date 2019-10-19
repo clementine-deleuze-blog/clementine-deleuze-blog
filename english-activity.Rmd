@@ -19,13 +19,12 @@ Lucy is a French science fiction action film written and directed by Luc Besson 
 # TV series
 
 ### Mind Hunter 
-Mindhunter is an American crime thriller television series created by Joe Penhall
-It's based on the true-crime book Mindhunter: Inside the FBI's Elite Serial Crime Unit 
+Mindhunter is an American crime thriller television series created by Joe Penhall. It's based on the true-crime book Mindhunter: Inside the FBI's Elite Serial Crime Unit 
 
 ### Black Mirror
 
 Black Mirror is a British science fiction anthology television series created by Charlie Brooker. 
-It's about modern society, it gives an unanticipated consequences of new technologies. Episodes are not related, usually set in an alternative present or the near future.
+It's about modern society, it gives a vision of unanticipated consequences of new technologies. Episodes are not related, usually set in an alternative present or the near future.
 
 # Podcasts
 ### /

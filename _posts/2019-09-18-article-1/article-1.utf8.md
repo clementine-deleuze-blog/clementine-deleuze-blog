@@ -1,0 +1,52 @@
+---
+title: "Article 1 : Earth's Oceans Are Getting Hotter And Higher, And It's Accelerating"
+author:
+  - name: Allison Tracy and Drew Harvell
+date: 10-09-2019
+categories:
+  - Ocean warming
+preview: image/warming-ocean.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-09-18-article-1/image/warming-ocean.jpg) 
+
+[https://www.sciencedaily.com/releases/2019/10/191009162428.htm]
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Widespread          | Existing or happening over a large area or among many people  |
+| Sentinel            | A soldier whose job is to guard something         |
+| Anthropogenic       | Relating to, or resulting from the influence of human beings on nature|
+| Transcend           | To be or go beyond the usual limits of something |
+| Fluctuation         | One of several frequent changes in size, amount, quality, etc, especially from one   |                     | extreme to another                                                                  |
+| Record              | a written account of something that is kept so that it can be looked at and used in | |                       the future
+| Mammal              | Any animal that gives birth to live babies, not eggs, and feeds its young on milk   |
+| Decapod             | A crustacean of the order Decapoda, such as a shrimp, crab, or lobster.
+| Seagrass            | A plant like grass that grows in or close to the sea
+| Correlate           | One of two or more facts, figures, etc. that are closely connected and affect or    
+|                       depend on each other
+| Bleach              | To become white or pale by a chemical process or by the effect of light from the sun
+| Bout                | A short period of great activity
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | The research was funded by a National Science Foundation Ecology and Evolution of Marine Infectious Diseases. The senior author is Drew Harvell, he's a professor of marine biology at Cornell University. And the lead author is Allison Tracy, who studied with Harvell.        |
+| Published in?                | 10-09-2019                                                          |
+| General topic?               |The research focuses on the health of multiple marine species, and shows that long-term temperature changes correlate with some anomalies in infectious disease reports           |
+| Procedure/what was examined? | They studied specifically the health of marine life in a 44-year period |
+| Conclusions/discovery?       | They established that for corals and urchins, infectious disease are linked to repeated warming events over the years      |
+| Remaining questions?         | / |
+
+
+
