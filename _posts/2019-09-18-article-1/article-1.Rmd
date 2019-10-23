@@ -30,13 +30,12 @@ Word count: 334
 | Sentinel            | A soldier whose job is to guard something         | Sentinelle |
 | Anthropogenic       | Relating to, or resulting from the influence of human beings on nature| Anthropique |
 | Transcend           | To be or go beyond the usual limits of something | Transcender |
-| Fluctuation         | One of several frequent changes in size, amount, quality, etc, especially from one extreme to another | Fluctuation |                                                                  |
+| Fluctuation         | One of several frequent changes in size, amount, quality, etc, especially from one extreme to another | Fluctuation |
 | Record              | a written account of something that is kept so that it can be looked at and used in the future |  Enregistrement |
 | Mammal              | Any animal that gives birth to live babies, not eggs, and feeds its young on milk   | Mammifère |
 | Decapod             | A crustacean of the order Decapoda, such as a shrimp, crab, or lobster. | Décapode |
 | Seagrass            | A plant like grass that grows in or close to the sea | Algue |
-| Correlate           | One of two or more facts, figures, etc. that are closely connected and affect or    
-|                       depend on each other | Corréler |
+| Correlate           | One of two or more facts, figures, etc. that are closely connected and affect or depend on each other | Corréler |
 | Bleach              | To become white or pale by a chemical process or by the effect of light from the sun | Blanchir |
 | Bout                | A short period of great activity | Episode |
 
