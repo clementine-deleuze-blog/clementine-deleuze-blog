@@ -17,26 +17,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-09-18-article-1/image/warming-ocean.jpg) 
 
-[https://www.sciencedaily.com/releases/2019/10/191009162428.htm]
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.sciencedaily.com/releases/2019/10/191009162428.htm> (10/09/2019)
 
+Word count: 334
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| Widespread          | Existing or happening over a large area or among many people  |
-| Sentinel            | A soldier whose job is to guard something         |
-| Anthropogenic       | Relating to, or resulting from the influence of human beings on nature|
-| Transcend           | To be or go beyond the usual limits of something |
-| Fluctuation         | One of several frequent changes in size, amount, quality, etc, especially from one   |                     | extreme to another                                                                  |
-| Record              | a written account of something that is kept so that it can be looked at and used in | |                       the future
-| Mammal              | Any animal that gives birth to live babies, not eggs, and feeds its young on milk   |
-| Decapod             | A crustacean of the order Decapoda, such as a shrimp, crab, or lobster.
-| Seagrass            | A plant like grass that grows in or close to the sea
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Widespread          | Existing or happening over a large area or among many people  | Répandu |
+| Sentinel            | A soldier whose job is to guard something         | Sentinelle |
+| Anthropogenic       | Relating to, or resulting from the influence of human beings on nature| Anthropique |
+| Transcend           | To be or go beyond the usual limits of something | Transcender |
+| Fluctuation         | One of several frequent changes in size, amount, quality, etc, especially from one   |                     | extreme to another | Fluctuation |                                                                  |
+| Record              | a written account of something that is kept so that it can be looked at and used in |                     the future |  Enregistrement |
+| Mammal              | Any animal that gives birth to live babies, not eggs, and feeds its young on milk   | Mammifère |
+| Decapod             | A crustacean of the order Decapoda, such as a shrimp, crab, or lobster. | Décapode |
+| Seagrass            | A plant like grass that grows in or close to the sea | Algue |
 | Correlate           | One of two or more facts, figures, etc. that are closely connected and affect or    
-|                       depend on each other
-| Bleach              | To become white or pale by a chemical process or by the effect of light from the sun
-| Bout                | A short period of great activity
+|                       depend on each other | Corréler |
+| Bleach              | To become white or pale by a chemical process or by the effect of light from the sun | Blanchir |
+| Bout                | A short period of great activity | Episode |
 
 
 ## Analysis table 
