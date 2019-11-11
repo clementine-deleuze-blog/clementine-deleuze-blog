@@ -1,0 +1,44 @@
+---
+title: "Marine heat wave off west coast weakens, but threat to ocean life not over yet"
+author:
+  - name: Hina Alam
+    url: {}
+date: 11-10-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.theglobeandmail.com/canada/british-columbia/article-marine-heat-wave-off-west-coast-weakens-but-threat-to-ocean-life-not/> (11/10/2019)
+
+Word count: 672
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| To blanket | Cover completely with a thick layer of something | Recouvrir |
+| Disruption | Disturbance or problems which interrupt an event, activity, or process. | Perturbation | 
+| Offshore | Situated at sea some distance from the shore.| Proche du littoral |
+| To forecast | To predict or estimate (a future event or trend) | Prévoir | 
+| To churn | (with reference to liquid) move or cause to move about vigorously. | Remuer | 
+| Albacore | A tuna of warm seas, which travels in large schools and is of commercial importance as a food fish | Une espèce de thon | 
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Nate Mantua of the National Oceanic and Atmospheric Administration. Scientist from the National Oceanic and Atmospheric Administration’s Climate Prediction Center, Andrew Trites from the University of British Columbia’s Institute for the Oceans and Fisheries | 
+| Published in?                | 11-10-2019  |
+| General topic?               | The article is about the marine heat wave that blanketed a large area, about 1,500 kilometres offshore between Hawaii and Alaska and which has weakened. | 
+| Procedure/what was examined? | Scientists monitor the evolution of the marine heat wave and are trying to determine it's impact on marine life. (by using satellite observations of the ocean colour for exemple wich give some general information about plankton production) |
+| Conclusions/discovery?       | The problem is that the ocean did not get cooler like it shoold has been, climate change and global warming are changing the patterns of air circulation, affecting storminess and changing the way the ocean was mixed by the wind for exemple. This leads to an expansion of the living environment of certain species. It has also resulted in an unusually low plankton production.
+| Remaining questions?         | What are the ecosystem impacts of the extreme warming on the productive part of the open ocean ? |
+
+
