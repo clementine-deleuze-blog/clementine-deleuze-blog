@@ -1,0 +1,50 @@
+---
+title: "Warming oceans can raise probability of storms: Experts"
+author:
+  - name: Audrey Tan
+date: 10-17-2019
+categories:
+  - Ocean warming
+preview: images/cyclone.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2nd-article/Images/cyclone.jpeg) 
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.straitstimes.com/world/warming-oceans-can-raise-probability-of-storms-experts> (10/17/2019)
+
+Word count: 650
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| To pummel | To keep hitting somebody/something hard | Frapper |
+| Widespread | Existing or happening over a large area or among many people | Répandu |
+| To overwhelm | To cover somebody/something completely (of water) | Submerger | 
+| Typhoon | A violent tropical storm with very strong winds, especially in the western Pacific Ocean | Typhon | 
+| Hurricane | A violent storm with very strong winds, especially in the western Atlantic Ocean | Ouragan |
+| Cyclone | A violent tropical storm in which strong winds move in a circle | Cyclone | 
+| Storm | Very bad weather with strong winds and rain, and often thunder and lightning | Tempête | 
+| Occurrence | Something that happens or exists | Apparition | 
+| Blitz | A sudden attack | Bombarder | 
+| 
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Dr Xie Shang-Ping, a climate scientist at the Scripps Institution of Oceanography. Professor Winston Chow of Singapore Management University and the weather scientist Koh Tieh Yong from the Singapore University of Social Sciences | 
+| Published in?                | 10-17-2019                                                          |
+| General topic?               | The link between occurence of the storms and warming ocean.
+| Procedure/what was examined? | They studied the appearance of new cyclones and their intensity with the increase of the temperature     |
+| Remaining questions?         | There are only limited evidence linking rising global temperatures with an increased number of Category 4 or 5 tropical cyclones each year. More research is needed |
+
+
+

@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/clementine-deleuze-blog/clementine-deleuze-blog
-base_url:  https://clementine-deleuze-blog.github.io/clementine-deleuze-blog/
+base_url: https://clementine-deleuze-blog.github.io/clementine-deleuze-blog/
 collections:
     posts:
       disqus: deleuze-clementines-blog
