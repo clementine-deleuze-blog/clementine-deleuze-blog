@@ -2,7 +2,6 @@
 title: "Marine heat wave off west coast weakens, but threat to ocean life not over yet"
 author:
   - name: Hina Alam
-    url: {}
 date: 11-10-2019
 output:
   distill::distill_article:
