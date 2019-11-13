@@ -16,7 +16,7 @@
   },
   {
     "path": "posts/2019-11-11-article-3/",
-    "title": "Marine heat wave off west coast weakens, but threat to ocean life not over yet",
+    "title": "Article 3 : Marine heat wave off west coast weakens, but threat to ocean life not over yet",
     "description": {},
     "author": [
       {
@@ -27,11 +27,11 @@
     "date": "2019-11-10",
     "categories": [],
     "preview": "posts/2019-11-11-article-3/images/ocean.jpg",
-    "last_modified": "2019-11-12T17:47:30+01:00"
+    "last_modified": "2019-11-13T17:09:58+01:00"
   },
   {
     "path": "posts/2nd-article/",
-    "title": "Warming oceans can raise probability of storms: Experts",
+    "title": "Article 2: Warming oceans can raise probability of storms: Experts",
     "description": {},
     "author": [
       {
@@ -44,7 +44,7 @@
       "Ocean warming"
     ],
     "preview": "posts/2nd-article/images/cyclone.jpeg",
-    "last_modified": "2019-11-12T17:45:38+01:00"
+    "last_modified": "2019-11-13T17:10:23+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -61,6 +61,6 @@
       "Ocean warming"
     ],
     "preview": "posts/2019-09-18-article-1/image/warming-ocean.jpg",
-    "last_modified": "2019-11-12T17:26:35+01:00"
+    "last_modified": "2019-11-13T17:10:12+01:00"
   }
 ]
