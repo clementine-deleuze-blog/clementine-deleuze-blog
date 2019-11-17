@@ -1,7 +1,22 @@
 [
   {
+    "path": "posts/My-English-activity-log/",
+    "title": "My English activity log",
+    "description": {},
+    "author": [
+      {
+        "name": "Deleuze Clémentine",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-17T17:23:11+01:00"
+  },
+  {
     "path": "posts/2019-11-11-article-3/",
-    "title": "Marine heat wave off west coast weakens, but threat to ocean life not over yet",
+    "title": "Article 3 : Marine heat wave off west coast weakens, but threat to ocean life not over yet",
     "description": {},
     "author": [
       {
@@ -11,12 +26,12 @@
     ],
     "date": "2019-11-10",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-17T17:20:51+01:00"
+    "preview": "posts/2019-11-11-article-3/images/ocean.jpg",
+    "last_modified": "2019-11-17T17:27:31+01:00"
   },
   {
-    "path": "posts/2nd-article/",
-    "title": "Warming oceans can raise probability of storms: Experts",
+    "path": "posts/10-17-2019-article-2/",
+    "title": "Article 2: Warming oceans can raise probability of storms: Experts",
     "description": {},
     "author": [
       {
@@ -28,8 +43,8 @@
     "categories": [
       "Ocean warming"
     ],
-    "preview": {},
-    "last_modified": "2019-11-03T17:02:14+01:00"
+    "preview": "posts/10-17-2019-article-2/images/cyclone.jpeg",
+    "last_modified": "2019-11-17T17:23:11+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",

@@ -1,10 +1,9 @@
 ---
-title: "Marine heat wave off west coast weakens, but threat to ocean life not over yet"
+title: "Article 3 : Marine heat wave off west coast weakens, but threat to ocean life not over yet"
 author:
   - name: Hina Alam
-    url: {}
 date: 11-10-2019
-preview: image/ocean-heat.jpeg
+preview: images/ocean.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -13,7 +12,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-11-11-article-3/images/ocean-heat.jpeg) 
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-11-11-article-3/images/ocean.jpg) 
+
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 Source of the article: <https://www.theglobeandmail.com/canada/british-columbia/article-marine-heat-wave-off-west-coast-weakens-but-threat-to-ocean-life-not/> (11/10/2019)
 
@@ -25,10 +25,10 @@ Word count: 672
 | ------------------- | ------------------------------ | ------------------- |
 | To blanket | Cover completely with a thick layer of something | Recouvrir |
 | Disruption | Disturbance or problems which interrupt an event, activity, or process. | Perturbation | 
-| Offshore | Situated at some distance from the shore.| Proche du littoral |
+| Offshore | Situated at sea some distance from the shore.| Proche du littoral |
 | To forecast | To predict or estimate (a future event or trend) | Prévoir | 
 | To churn | (with reference to liquid) move or cause to move about vigorously. | Remuer | 
-| Albacore | A species of tuna that leaves in warm seas. | Une espèce de thon | 
+| Albacore | A species of tuna that lives in warm seas. | Une espèce de thon | 
 
 
 ## Analysis table 
