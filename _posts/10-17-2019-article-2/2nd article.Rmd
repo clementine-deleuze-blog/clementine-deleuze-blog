@@ -4,17 +4,19 @@ author:
   - name: Audrey Tan
 date: 10-17-2019
 categories:
-  - Ocean warming
-preview: images/cyclone.jpg
+  - "Ocean warming"
+preview: "Images/cyclone.jpeg"
 output:
   distill::distill_article:
     self_contained: false
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/10-17-2019-article-2/Images/cyclone.jpg) 
+
+![](Images/cyclone.jpeg) 
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 Source of the article: <https://www.straitstimes.com/world/warming-oceans-can-raise-probability-of-storms-experts> (10/17/2019)
