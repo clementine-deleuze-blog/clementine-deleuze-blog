@@ -1,0 +1,46 @@
+---
+title: "Article 4  : How fish keep their cool in warming oceans"
+author:
+  - name: Michael Burrows
+date: 11-25-2019
+preview: image/cold-water.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-12-02-article-4/image/cold-water.jpg) 
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.fishfarmermagazine.com/news/how-fish-keep-their-cool-in-warming-oceans/> (11/25/2019)
+
+Word count: 625
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| To thrive  | To become, and continue to be, successful, strong, healthy, etc. | Prospérer |
+| To seek | To look for something/somebody. | Chercher |
+| Abundance | A large quantity that is more than enough. | Abondance |
+| Gradient | the rate at which temperature, pressure, etc. changes, or increases and decreases, between one region and another | Gradiants |
+| Resilience | The ability of people or things to feel better quickly after something unpleasant, such as shock, injury, etc. | Résilience |
+| A poll | The process of questioning people who are representative of a larger group in order to get information about the general opinion | Un sondage |
+| Counterpart | A person or thing that has the same position or function as somebody/something else in a different place or situation | Un homologue |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Researchers from the UK, Japan, Australia, the US, Germany, Canada, South Africa and New Zealand.
+Prof Michael Burrows of the Scottish Association for Marine Science (SAMS) in Oban | 
+| Published in?                | 11-25-1019                                                          |
+| General topic?               | It's an international study about ocean warming, it suggests that some cold water species will continue to thrive by seeking refuge in cooler, deeper water. | 
+| Procedure/what was examined? | Three million records of thousands of species from 200 ecological communities across the globe (between 1985 and 2014) were analysed. |
+| Conclusions/discovery?       | The study suggests that warm water species tend to increase and cold water marine species tend to become less successfull as the global temperature increase. However the study also shows how some of the cold water species adapt.
+| Remaining questions?         | What is the maximum temperature tolerance for the marine species ? |
