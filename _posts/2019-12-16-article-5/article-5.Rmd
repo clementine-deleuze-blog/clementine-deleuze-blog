@@ -1,0 +1,45 @@
+---
+title: "Article 5: Climate Change Is Ravaging the Arctic, Report Finds"
+author:
+  - name: Michael Burrows
+    url: {}
+date: 12-16-2019
+preview: image/arctic.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2019-12-16-article-5/image/arctic.jpg) 
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.nytimes.com/2019/12/10/climate/climate-change-arctic-warming.html> (12/10/2019)
+
+Word count: 625
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Duress | Threats or force that are used to make somebody do something | Contrainte |
+|To thaw | To turn back into water after being frozen | Fondre |
+|
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | . | 
+| Published in?                |                                                           |
+| General topic?               |  | 
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       | 
+| Remaining questions?         | |
+
+ Donald K. Perovich, a professor of engineering at the Thayer School of Engineering at Dartmouth College and the lead author of the report’s chapter on sea ice.
