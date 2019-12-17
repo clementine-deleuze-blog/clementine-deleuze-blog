@@ -1,8 +1,7 @@
 ---
 title: "Article 5: Climate Change Is Ravaging the Arctic, Report Finds"
 author:
-  - name: Michael Burrows
-    url: {}
+  - name: Kendra Pierre-Louis
 date: 12-16-2019
 preview: image/arctic.jpg
 output:
@@ -26,9 +25,9 @@ Word count: 625
 | Words from the text | Synonym/explanation in English | French translation |
 | ------------------- | ------------------------------ | ------------------- |
 | Duress | Threats or force that are used to make somebody do something | Contrainte |
-|To thaw | To turn back into water after being frozen | Fondre |
-|
-
+| To thaw | To turn back into water after being frozen | Fondre |
+| Prompting | An act of persuading somebody to do something | Incitant |
+| 
 
 
 ## Analysis table 
