@@ -1,0 +1,47 @@
+---
+title: "Article 6: Our warming oceans are killing the sea star population"
+author:
+  - name: Olivia Rosane,
+date: 12-16-2019
+preview: image/arctic.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.weforum.org/agenda/2019/02/warming-oceans-strongly-linked-to-sea-star-die-off> (12/10/2019)
+
+Word count: 1009
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| 
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |   | 
+| Published in?                |                   |
+| General topic?               |  | 
+| Procedure/what was examined? | |
+| Conclusions/discovery?       |  |
+| Remaining questions?         | |
+
+
+
+
+
+
