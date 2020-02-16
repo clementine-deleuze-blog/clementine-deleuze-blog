@@ -1,4 +1,4 @@
----
+ ---
 title: "Article 6: Our warming oceans are killing the sea star population"
 author:
   - name: Olivia Rosane,
