@@ -1,0 +1,54 @@
+---
+title: " Article 7: Warming oceans are getting louder "
+author:
+  - name: Cynthia Drummond
+date: 01-24-2020
+preview: image/snap.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](/media/sf_shared/projects/clementine-deleuze-blog/_posts/2020-03-02-article-7/image/snap.jpg) 
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: <https://www.sciencedaily.com/releases/2020/02/200218124411.htm> (02/18/2020)
+
+Word count: 434
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Pervasive | existing in all parts of a place or thing; spreading gradually to affect all parts of a place or thing | Envahissant |
+| Claw | one of the sharp curved nails on the end of an animal’s or a bird’s foot | griffe | 
+| Shrimp | a small shellfish that can be eaten, like a prawn but smaller.  | Crevette |
+| ant | a small insect that lives in highly organized groups. There are many types of ant. | fourmi |
+|
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Aran Mooney, and his colleague Ashlee Lillis marine biologists at Woods Hole Oceanographic Institution.| 
+| Published in?                | 02/18/2020 |
+| General topic?               | With rising temperature of the ocean, snapping shrimp are louder and snap more often than before which could amplify the background noise of the global ocean. | 
+| | |
+| Procedure/what was examined? | Reaserchers are experimenting with shrimp in tanks in their lab and are listening shrimp in the ocean at different water temperatures.|
+| |  |
+| Conclusions/discovery?       | They detected a strong relationship between warmer waters and louder, more frequent snapping shrimp sounds. Shimp are cold-blooded animals, which means that their body temperature are largely controlled by their environment. They could also show in the field that not only does snap rate increase, but the sound levels increase as well so the seas are actually getting louder as water, warmer temperatures. It could potentially have harmful effects on fish and even sonar used by submarines and ships. |
+| Remaining questions?         | Fish use sound to communicate, to call each other, and to make sounds to attract mates of for territorial defense. If the seas get louder, would it has an influence on those communications ? |
+
+
+
+
+
+
+
+
