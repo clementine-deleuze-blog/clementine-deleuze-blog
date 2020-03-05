@@ -1,8 +1,8 @@
 ---
 title: " Article 7: Warming oceans are getting louder "
 author:
-  - name: Cynthia Drummond
-date: 02-18-2020
+  - name: Deleuze Clémentine
+date: 03-02-2020
 preview: image/snap.jpg
 output:
   distill::distill_article:

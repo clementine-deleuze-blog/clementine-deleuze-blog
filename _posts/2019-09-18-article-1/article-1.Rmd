@@ -1,8 +1,8 @@
 ---
 title: "Article 1 : Earth's Oceans Are Getting Hotter And Higher, And It's Accelerating"
 author:
-  - name: Allison Tracy and Drew Harvell
-date: 10-09-2019
+  - name: Deleuze Clémentine
+date: 09-18-2019
 categories:
   - Ocean warming
 preview: image/warming-ocean.jpg
