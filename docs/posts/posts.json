@@ -12,7 +12,11 @@
     "date": "2020-02-18",
     "categories": [],
     "preview": "posts/2020-03-02-article-7/image/snap.jpg",
+<<<<<<< HEAD
     "last_modified": "2020-03-02T21:07:59+01:00"
+=======
+    "last_modified": "2020-03-03T10:34:28+01:00"
+>>>>>>> 2c262786a9cdecbd14383df9cd84a94462d821ae
   },
   {
     "path": "posts/2020-02-17-article-6/",
@@ -27,7 +31,11 @@
     "date": "2020-01-24",
     "categories": [],
     "preview": "posts/2020-02-17-article-6/image/war.jpg",
+<<<<<<< HEAD
     "last_modified": "2020-02-17T20:14:46+01:00"
+=======
+    "last_modified": "2020-03-03T10:34:39+01:00"
+>>>>>>> 2c262786a9cdecbd14383df9cd84a94462d821ae
   },
   {
     "path": "posts/2019-12-16-article-5/",
@@ -42,7 +50,7 @@
     "date": "2019-12-16",
     "categories": [],
     "preview": "posts/2019-12-16-article-5/image/arctic.jpg",
-    "last_modified": "2020-02-17T19:53:10+01:00"
+    "last_modified": "2020-03-03T10:28:45+01:00"
   },
   {
     "path": "posts/2019-12-02-article-4/",
@@ -57,7 +65,7 @@
     "date": "2019-11-25",
     "categories": [],
     "preview": "posts/2019-12-02-article-4/image/cold-water.jpg",
-    "last_modified": "2019-12-16T21:51:22+01:00"
+    "last_modified": "2020-03-03T10:28:45+01:00"
   },
   {
     "path": "posts/My-English-activity-log/",
@@ -72,7 +80,7 @@
     "date": "2019-11-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-16T21:51:23+01:00"
+    "last_modified": "2020-03-03T10:28:46+01:00"
   },
   {
     "path": "posts/2019-11-11-article-3/",
@@ -87,7 +95,7 @@
     "date": "2019-11-10",
     "categories": [],
     "preview": "posts/2019-11-11-article-3/images/ocean.jpg",
-    "last_modified": "2019-12-16T21:51:22+01:00"
+    "last_modified": "2020-03-03T10:28:44+01:00"
   },
   {
     "path": "posts/2019-10-17-article-2/",
@@ -104,7 +112,7 @@
       "Ocean warming"
     ],
     "preview": "posts/2019-10-17-article-2/Images/cyclone.jpeg",
-    "last_modified": "2019-12-16T21:51:22+01:00"
+    "last_modified": "2020-03-03T10:28:44+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -121,6 +129,6 @@
       "Ocean warming"
     ],
     "preview": "posts/2019-09-18-article-1/image/warming-ocean.jpg",
-    "last_modified": "2019-12-16T21:51:22+01:00"
+    "last_modified": "2020-03-03T10:28:44+01:00"
   }
 ]

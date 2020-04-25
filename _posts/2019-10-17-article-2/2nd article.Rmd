@@ -1,7 +1,7 @@
 ---
 title: "Article 2: Warming oceans can raise probability of storms: Experts"
 author:
-  - name: Audrey Tan
+  - name: Deleuze Clémentine
 date: 10-17-2019
 categories:
   - "Ocean warming"
