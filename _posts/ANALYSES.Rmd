@@ -1,0 +1,206 @@
+---
+title: "Analyses"
+author: "DELEUZE Clémentine"
+date: "4/25/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# ARTICLE 1
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Widespread          | Existing or happening over a large area or among many people  | Répandu |
+| Sentinel            | A soldier whose job is to guard something         | Sentinelle |
+| Anthropogenic       | Relating to, or resulting from the influence of human beings on nature| Anthropique |
+| Transcend           | To be or go beyond the usual limits of something | Transcender |
+| Fluctuation         | One of several frequent changes in size, amount, quality, etc, especially from one extreme to another | Fluctuation |
+| Record              | a written account of something that is kept so that it can be looked at and used in the future |  Enregistrement |
+| Mammal              | Any animal that gives birth to live babies, not eggs, and feeds its young on milk   | Mammifère |
+| Decapod             | A crustacean of the order Decapoda, such as a shrimp, crab, or lobster. | Décapode |
+| Seagrass            | A plant like grass that grows in or close to the sea | Algue |
+| Correlate           | One of two or more facts, figures, etc. that are closely connected and affect or depend on each other | Corréler |
+| Bleach              | To become white or pale by a chemical process or by the effect of light from the sun | Blanchir |
+| Bout                | A short period of great activity | Episode |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | The research was funded by a National Science Foundation Ecology and Evolution of Marine Infectious Diseases. The senior author is Drew Harvell, he's a professor of marine biology at Cornell University. And the lead author is Allison Tracy, who studied with Harvell.        |
+| Published in?                | 10-09-2019                                                          |
+| General topic?               |The research focuses on the health of multiple marine species, and shows that long-term temperature changes correlate with some anomalies in infectious disease reports           |
+| Procedure/what was examined? | They studied specifically the health of marine life in a 44-year period |
+| Conclusions/discovery?       | They established that for corals and urchins, infectious disease are linked to repeated warming events over the years      |
+| Remaining questions?         | / |
+
+# ARTICLE2 : Warming oceans can raise probability of storms: Experts
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| To pummel | To keep hitting somebody/something hard | Frapper |
+| Widespread | Existing or happening over a large area or among many people | Répandu |
+| To overwhelm | To cover somebody/something completely (of water) | Submerger | 
+| Typhoon | A violent tropical storm with very strong winds, especially in the western Pacific Ocean | Typhon | 
+| Hurricane | A violent storm with very strong winds, especially in the western Atlantic Ocean | Ouragan |
+| Cyclone | A violent tropical storm in which strong winds move in a circle | Cyclone | 
+| Storm | Very bad weather with strong winds and rain, and often thunder and lightning | Tempête | 
+| Occurrence | Something that happens or exists | Apparition | 
+| Blitz | A sudden attack | Bombarder | 
+| 
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Dr Xie Shang-Ping, a climate scientist at the Scripps Institution of Oceanography. Professor Winston Chow of Singapore Management University and the weather scientist Koh Tieh Yong from the Singapore University of Social Sciences | 
+| Published in?                | 10-17-2019                                                          |
+| General topic?               | The link between occurence of the storms and warming ocean.
+| Procedure/what was examined? | They studied the appearance of new cyclones and their intensity with the increase of the temperature     |
+| Remaining questions?         | There are only limited evidence linking rising global temperatures with an increased number of Category 4 or 5 tropical cyclones each year. More research is needed |
+
+# ARTICLE 3: Marine heat wave off west coast weakens, but threat to ocean life not over yet
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| To blanket | Cover completely with a thick layer of something | Recouvrir |
+| Disruption | Disturbance or problems which interrupt an event, activity, or process. | Perturbation | 
+| Offshore | Situated at sea some distance from the shore.| Proche du littoral |
+| To forecast | To predict or estimate (a future event or trend) | Prévoir | 
+| To churn | (with reference to liquid) move or cause to move about vigorously. | Remuer | 
+| Albacore | A species of tuna that lives in warm seas. | Une espèce de thon | 
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Nate Mantua of the National Oceanic and Atmospheric Administration. Scientist from the National Oceanic and Atmospheric Administration’s Climate Prediction Center, Andrew Trites from the University of British Columbia’s Institute for the Oceans and Fisheries | 
+| Published in?                | 11-10-2019  |
+| General topic?               | The article is about the marine heat wave that blanketed a large area, about 1,500 kilometres offshore between Hawaii and Alaska and which has weakened. | 
+| Procedure/what was examined? | Scientists monitor the evolution of the marine heat wave and are trying to determine it's impact on marine life. (by using satellite observations of the ocean colour for exemple wich give some general information about plankton production) |
+| Conclusions/discovery?       | The problem is that the ocean did not get cooler like it shoold has been, climate change and global warming are changing the patterns of air circulation, affecting storminess and changing the way the ocean was mixed by the wind for exemple. This leads to an expansion of the living environment of certain species. It has also resulted in an unusually low plankton production.
+| Remaining questions?         | What are the ecosystem impacts of the extreme warming on the productive part of the open ocean ? |
+
+
+# ARTICLE 4: How fish keep their cool in warming oceans
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| To thrive  | To become, and continue to be, successful, strong, healthy, etc. | Prospérer |
+| To seek | To look for something/somebody. | Chercher |
+| Abundance | A large quantity that is more than enough. | Abondance |
+| Gradient | the rate at which temperature, pressure, etc. changes, or increases and decreases, between one region and another | Gradiants |
+| Resilience | The ability of people or things to feel better quickly after something unpleasant, such as shock, injury, etc. | Résilience |
+| A poll | The process of questioning people who are representative of a larger group in order to get information about the general opinion | Un sondage |
+| Counterpart | A person or thing that has the same position or function as somebody/something else in a different place or situation | Un homologue |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Researchers from the UK, Japan, Australia, the US, Germany, Canada, South Africa and New Zealand. Also Prof Michael Burrows of the Scottish Association for Marine Science in Oban. | 
+| Published in?                | 11-25-1019                                                          |
+| General topic?               | It's an international study about ocean warming, it suggests that some cold water species will continue to thrive by seeking refuge in cooler, deeper water. | 
+| Procedure/what was examined? | Three million records of thousands of species from 200 ecological communities across the globe (between 1985 and 2014) were analysed. |
+| Conclusions/discovery?       | The study suggests that warm water species tend to increase and cold water marine species tend to become less successfull as the global temperature increase. However the study also shows how some of the cold water species adapt.
+| Remaining questions?         | What is the maximum temperature tolerance for the marine species ? |
+
+# ARTICLE 5: Climate Change Is Ravaging the Arctic, Report Finds
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Duress | Threats or force that are used to make somebody do something | Contrainte |
+| To thaw | To turn back into water after being frozen | Fondre |
+| Prompting | An act of persuading somebody to do something | Incitant |
+| Pace | To set the speed at which something happens or develops | Un rythme |
+| Input | Time, knowledge, ideas, etc. that you put into work, a project, etc. in order to make it succeed; the act of putting something in | Contribution |
+| Harvest | The time of year when the crops are gathered in on a farm, etc.; the act of cutting and gathering crops | Récolte |
+| Permafrost | A layer of soil that is permanently frozen, in very cold regions of the world |Pergélisol |
+| Tu slump | To fall in price, value, number, etc., suddenly and by a large amount | S'effondrer |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  Reserchers from the National Oceanic and Atmospheric Administration, Donald K. Perovich, a professor of engineering at the Thayer School of Engineering at Dartmout College and the lead author of the report’s chapter on sea ice. Mellisa Johnson, a guest editor on the report and a member of the Bering Sea Elders Group. Matthew Druckenmiller, a research scientist at the National Snow and Ice Data Center at the University of Colorado Boulder and one of the report’s editors. | 
+| Published in?                | 12/10/2019                                       |
+| General topic?               | Temperatures in the Arctic region are still near record highs and it increased the thawing of the sea ice. It also has cascading impacts on fisheries and ecosystems, and it grows concerns over sea level rise. | 
+| Procedure/what was examined? | Records of the past years were examined since 1979 (where satellite records began).It also include input from some of the communities that are directly affected by the melting of the ice and the warming of the ocean. |
+| Conclusions/discovery?       | The past six years have been the warmest ever recorded in the Arctic. And the decline of the arctic ice was shrinking the access to the food resources of the different communities living in this area. It also has consequences on the harvest which used to be in the fall but which is ready in summer know. It also lead to the thawing of the permafrost, which releases the carbon dioxide it contained directly into the atmosphere, exacerbing climate change. |
+| Remaining questions?         | The question is whether the measurements in Alaska over a several year period are representative of the broader Arctic system of other regions in the Arctic where permafrost exists |
+
+
+# ARTICLE 6: Warmer ocean means changing fish populations in Narragansett Bay
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Anglers | a person who catches fish (= goes angling) as a hobby | Pêcheurs |
+| Pose | to create a threat, problem, etc. that has to be dealt with | Constitue |
+| Displace | to take the place of somebody/something | Remplacer |
+| Striped | marked with a pattern of stripes | Rayé |
+| Spiny | (of animals or plants) having sharp points like needles | Épineux |
+| Winter flounder | is a flatfish of the family Pleuronectidae | Plie rouge |
+| Cod | a large sea fish that is white inside and used for food | Le cabillaud |
+| Black sea bass | exclusively marine group of fish found more commonly in northern | Loup de mer noir |
+| striped sea robin | family of bottom-feeding scorpaeniform fish commonly found in southern (different from the native northern sea robin) | Le grondin rayé |
+| Bight | a long curved part of a coast or river |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Students from the University of Rhode Island Graduate School of Oceanography. Maggie Heinichen and Nina Santos, master's degree candidates and other reaserchers.| 
+| Published in?                | 01/24/2020 |
+| General topic?               | The main subject of the artcle is the changing fish populations in Narragansett Bay due to the warming of the ocean. More specificly scientists are trying to undertand which species pose the greatest threat | 
+| | |
+| Procedure/what was examined? | Reaserchers are working on what's happening to the fish populations in Narragansett Bay by using a qualitative “network” model that provides data on species populations and water temperature. The ideal would be a quantitative model (Quantitative models calculate the population numbers of different organisms and measure the rates of change) but if the numbers don't exist, the best you can do is a qualitative model. This qualitative model can be based on the striped sea robin's diets for example.They also studied how the diet of black see bass and cod overlaps, they analyzed stomach contents of the fish as well as samples of muscle and liver. Small ear bones called otoliths are also collected because, like tree rings, they show a fish’s yearly growth as well as environmental conditions. Reaserchers can also use isotopes, which provide chemical fingerprints of the organism's diet.|
+| |  |
+| Conclusions/discovery?       | Many new fish species are now found in Rhode Island waters. In Narragansett Bay, one of the most significant changes in recent years has been an increase in the population of the striped sea robin, a fish that wasn’t found in Rhode Island waters in the 1960s and '70s, but has spread northward as ocean temperatures have risen. It's also the case for black sea bass which are originally from the mid Atlantic bight region and are now moving northward as waters have warmed. For a local species, the cod, both warming waters and resources competition with new species are a threat for their survival. Indeed, cod prefers cold water and are now in competition with black sea bass for ressources. Also, the overlap between the larval stages of some commercially important fish (like winter flounder, summer flounder, black sea bass, etc) and the striped sea robins (not economically important) predation period is causing a decrease in the population of the valuable species. |
+| Remaining questions?         | / |
+
+
+# ARTICLE 7: Warming oceans are getting louder
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------- |
+| Pervasive | existing in all parts of a place or thing; spreading gradually to affect all parts of a place or thing | Envahissant |
+| Claw | one of the sharp curved nails on the end of an animal’s or a bird’s foot | griffe | 
+| Shrimp | a small shellfish that can be eaten, like a prawn but smaller.  | Crevette |
+| ant | a small insect that lives in highly organized groups. There are many types of ant. | fourmi |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Aran Mooney, and his colleague Ashlee Lillis marine biologists at Woods Hole Oceanographic Institution.| 
+| Published in?                | 02/18/2020 |
+| General topic?               | With rising temperature of the ocean, snapping shrimp are louder and snap more often than before which could amplify the background noise of the global ocean. | 
+| | |
+| Procedure/what was examined? | Reaserchers are experimenting with shrimp in tanks in their lab and are listening shrimp in the ocean at different water temperatures.|
+| |  |
+| Conclusions/discovery?       | They detected a strong relationship between warmer waters and louder, more frequent snapping shrimp sounds. Shimp are cold-blooded animals, which means that their body temperature are largely controlled by their environment. They could also show in the field that not only does snap rate increase, but the sound levels increase as well so the seas are actually getting louder as water, warmer temperatures. It could potentially have harmful effects on fish and even sonar used by submarines and ships. |
+| Remaining questions?         | Fish use sound to communicate, to call each other, and to make sounds to attract mates of for territorial defense. If the seas get louder, would it has an influence on those communications ? |

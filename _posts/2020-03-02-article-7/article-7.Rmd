@@ -1,8 +1,8 @@
 ---
 title: " Article 7: Warming oceans are getting louder "
 author:
-  - name: Cynthia Drummond
-date: 01-24-2020
+  - name: Mooney
+date: 02-18-2020
 preview: image/snap.jpg
 output:
   distill::distill_article:
@@ -28,8 +28,6 @@ Word count: 434
 | Claw | one of the sharp curved nails on the end of an animal’s or a bird’s foot | griffe | 
 | Shrimp | a small shellfish that can be eaten, like a prawn but smaller.  | Crevette |
 | ant | a small insect that lives in highly organized groups. There are many types of ant. | fourmi |
-|
-
 
 
 ## Analysis table 
@@ -44,11 +42,3 @@ Word count: 434
 | |  |
 | Conclusions/discovery?       | They detected a strong relationship between warmer waters and louder, more frequent snapping shrimp sounds. Shimp are cold-blooded animals, which means that their body temperature are largely controlled by their environment. They could also show in the field that not only does snap rate increase, but the sound levels increase as well so the seas are actually getting louder as water, warmer temperatures. It could potentially have harmful effects on fish and even sonar used by submarines and ships. |
 | Remaining questions?         | Fish use sound to communicate, to call each other, and to make sounds to attract mates of for territorial defense. If the seas get louder, would it has an influence on those communications ? |
-
-
-
-
-
-
-
-
